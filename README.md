@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Phillip
 
 ### Fullstack developer || 2+ Years of experience
-
+[![Visitors](https://komarev.com/ghpvc/?username=PhiIIie&color=037F50&color=red)](https://github.com/PhiIIie) 
 # 🚀 Technologies & Tools
 ## Frontend Development
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
